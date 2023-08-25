@@ -21786,11 +21786,17 @@ INSERT INTO `mob_droplist` VALUES (2657,4,0,1000,882,0);        -- Sheep Tooth (
 INSERT INTO `mob_droplist` VALUES (2657,2,0,1000,2155,0);       -- Lesser Chigoe (Steal)
 
 -- ZoneID: 100 - Wild Rabbit
+INSERT INTO `mob_droplist` VALUES (2658,0,0,1000,12818,@ALWAYS); -- Byakkos Haidate (Common, 15%)
+INSERT INTO `mob_droplist` VALUES (2659,0,0,1000,12818,@ALWAYS); -- Byakkos Haidate (Common, 15%)
+INSERT INTO `mob_droplist` VALUES (2659,0,0,1000,12818,@ALWAYS); -- Byakkos Haidate (Common, 15%)
 INSERT INTO `mob_droplist` VALUES (2658,0,0,1000,4358,@COMMON);  -- Slice Of Hare Meat (Common, 15%)
 INSERT INTO `mob_droplist` VALUES (2658,0,0,1000,856,@UNCOMMON); -- Rabbit Hide (Uncommon, 10%)
 INSERT INTO `mob_droplist` VALUES (2658,2,0,1000,4389,0);        -- San Dorian Carrot (Steal)
 
 -- ZoneID: 101 - Wild Rabbit
+INSERT INTO `mob_droplist` VALUES (2659,0,0,1000,12818,@ALWAYS); -- Byakkos Haidate (Common, 15%)
+INSERT INTO `mob_droplist` VALUES (2659,0,0,1000,12818,@ALWAYS); -- Byakkos Haidate (Common, 15%)
+INSERT INTO `mob_droplist` VALUES (2659,0,0,1000,12818,@ALWAYS); -- Byakkos Haidate (Common, 15%)
 INSERT INTO `mob_droplist` VALUES (2659,0,0,1000,856,@COMMON);  -- Rabbit Hide (Common, 15%)
 INSERT INTO `mob_droplist` VALUES (2659,0,0,1000,856,@COMMON);  -- Rabbit Hide (Common, 15%)
 INSERT INTO `mob_droplist` VALUES (2659,2,0,1000,4389,0);       -- San Dorian Carrot (Steal)
