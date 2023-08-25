@@ -88,7 +88,7 @@ xi.settings.main =
     -- Retail droprate = 0.1 (10%) with no other effects active
     -- Set to 0 to disable caskets.
     -- max is clamped to 1.0 (100%)
-    CASKET_DROP_RATE = 0.1,
+    CASKET_DROP_RATE = 1.0,
 
     -- Abyssea lights
     -- certain mobs that reduces the drop rate automatically depending on the light.
@@ -110,20 +110,20 @@ xi.settings.main =
     NEW_CHARACTER_CUTSCENE         = 1,  -- Set to 1 to enable opening cutscenes, 0 to disable.
     SUBJOB_QUEST_LEVEL             = 18, -- Minimum level to accept either subjob quest.  Set to 0 to start the game with subjobs unlocked.
     ADVANCED_JOB_LEVEL             = 30, -- Minimum level to accept advanced job quests.  Set to 0 to start the game with advanced jobs.
-    ALL_MAPS                       = 0,  -- Set to 1 to give starting characters all the maps.
+    ALL_MAPS                       = 1,  -- Set to 1 to give starting characters all the maps.
     UNLOCK_OUTPOST_WARPS           = 0,  -- Set to 1 to give starting characters all outpost warps.  2 to add Tu'Lia and Tavnazia.
 
     SHOP_PRICE      = 1.000, -- Multiplies prices in NPC shops.
-    GIL_RATE        = 1.000, -- Multiplies gil earned from quests.  Won't always display in game.
+    GIL_RATE        = 90.000, -- Multiplies gil earned from quests.  Won't always display in game.
     BAYLD_RATE      = 1.000, -- Multiples bayld earned from quests.
     -- Note: EXP rates are also influenced by conf setting
-    EXP_RATE        = 1.000, -- Multiplies exp from script (except FoV/GoV).
-    SCROLL_EXP_RATE = 1.000, -- Multiplies exp from single use XP Scrolls (e.g. Miratete's Memoirs).
+    EXP_RATE        = 56000.000, -- Multiplies exp from script (except FoV/GoV).
+    SCROLL_EXP_RATE = 2500.000, -- Multiplies exp from single use XP Scrolls (e.g. Miratete's Memoirs).
     BOOK_EXP_RATE   = 1.000, -- Multiplies exp from FoV/GoV book pages.
     TABS_RATE       = 1.000, -- Multiplies tabs earned from fov.
     ROE_EXP_RATE    = 1.000, -- Multiplies exp earned from records of eminence.
     SPARKS_RATE     = 1.000, -- Multiplies sparks earned from records of eminence.
-    CURE_POWER      = 1.000, -- Multiplies amount healed from Healing Magic, including the relevant Blue Magic.
+    CURE_POWER      = 200.000, -- Multiplies amount healed from Healing Magic, including the relevant Blue Magic.
     ELEMENTAL_POWER = 1.000, -- Multiplies damage dealt by Elemental and non-drain Dark Magic.
     DIVINE_POWER    = 1.000, -- Multiplies damage dealt by Divine Magic.
     NINJUTSU_POWER  = 1.000, -- Multiplies damage dealt by Ninjutsu Magic.
@@ -173,7 +173,7 @@ xi.settings.main =
     CHEST_MIN_ILLUSION_TIME  = 1800,  -- 30 minutes
 
     -- Multiplier to NM lottery spawn chance. (Default 1.0) eg. 0 = disable lottery spawns. -1 for always 100% chance.
-    NM_LOTTERY_CHANCE = 1.0,
+    NM_LOTTERY_CHANCE = -1.0,
     -- Multiplier to NM lottery cooldown time (Default 1.0) eg. 2.0 = twice as long. 0 = no cooldowns.
     NM_LOTTERY_COOLDOWN = 1.0,
 
