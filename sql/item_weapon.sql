@@ -3568,7 +3568,7 @@ INSERT INTO `item_weapon` VALUES (20578,'wind_knife',2,0,0,0,0,1,1,195,1,0);
 INSERT INTO `item_weapon` VALUES (20579,'skinflayer',2,0,242,242,188,1,1,210,116,0);
 INSERT INTO `item_weapon` VALUES (20580,'kustawi',2,0,242,242,188,1,1,195,113,0);
 INSERT INTO `item_weapon` VALUES (20581,'kustawi_+1',2,0,242,242,188,1,1,189,114,0);
-INSERT INTO `item_weapon` VALUES (20583,'mandau',2,0,269,269,228,1,1,176,124,0);
+INSERT INTO `item_weapon` VALUES (20583,'mandau',2,0,269,269,228,1,1,176,5024,0);
 INSERT INTO `item_weapon` VALUES (20584,'terpsichore',2,0,269,269,228,1,1,205,128,0);
 INSERT INTO `item_weapon` VALUES (20585,'vajra',2,0,269,269,228,1,1,200,125,0);
 INSERT INTO `item_weapon` VALUES (20586,'carnwenhan',2,0,269,269,255,1,1,186,116,0);

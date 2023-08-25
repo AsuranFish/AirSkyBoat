@@ -2573,7 +2573,7 @@ INSERT INTO `item_equipment` VALUES (12814,'ryl.kgt._breeches',55,0,6593,13,0,0,
 INSERT INTO `item_equipment` VALUES (12815,'ryl.sqr._breeches',40,0,6593,12,0,0,128,0,0,255);
 INSERT INTO `item_equipment` VALUES (12816,'scale_cuisses',10,0,2141649,28,0,0,128,0,0,255);
 INSERT INTO `item_equipment` VALUES (12817,'brass_cuisses',27,0,2141649,28,0,0,128,0,0,255);
-INSERT INTO `item_equipment` VALUES (12818,'byakkos_haidate',75,0,7939,99,0,0,128,0,0,255);
+INSERT INTO `item_equipment` VALUES (12818,'byakkos_haidate',1,0,7939,99,0,0,128,0,0,255);
 INSERT INTO `item_equipment` VALUES (12819,'coral_cuisses',64,0,2141649,27,0,0,128,0,0,255);
 INSERT INTO `item_equipment` VALUES (12820,'dragon_cuisses',69,0,8192,60,0,0,128,0,0,255);
 INSERT INTO `item_equipment` VALUES (12821,'gavial_cuisses',72,0,2107392,27,0,0,128,0,0,255);

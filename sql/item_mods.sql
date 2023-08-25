@@ -14004,10 +14004,10 @@ INSERT INTO `item_mods` VALUES (12816,1,7); -- DEF: 7
 INSERT INTO `item_mods` VALUES (12817,1,15); -- DEF: 15
 
 -- Byakkos Haidate
-INSERT INTO `item_mods` VALUES (12818,1,42);    -- DEF: 42
-INSERT INTO `item_mods` VALUES (12818,9,15);    -- DEX: 15
-INSERT INTO `item_mods` VALUES (12818,19,50);   -- THUNDER_RES: 50
-INSERT INTO `item_mods` VALUES (12818,384,500); -- HASTE_GEAR: 500
+INSERT INTO `item_mods` VALUES (12818,1,420);    -- DEF: 420
+INSERT INTO `item_mods` VALUES (12818,9,150);    -- DEX: 150
+INSERT INTO `item_mods` VALUES (12818,19,500);   -- THUNDER_RES: 500
+INSERT INTO `item_mods` VALUES (12818,384,2500); -- HASTE_GEAR: 2500
 
 -- Coral Cuisses
 INSERT INTO `item_mods` VALUES (12819,1,30);     -- DEF: 30
@@ -28702,8 +28702,8 @@ INSERT INTO `item_mods` VALUES (15735,71,3); -- MPHEAL: 3
 
 -- Trotter Boots
 INSERT INTO `item_mods` VALUES (15736,1,4);    -- DEF: 4
-INSERT INTO `item_mods` VALUES (15736,11,2);   -- AGI: 2
-INSERT INTO `item_mods` VALUES (15736,169,12); -- MOVE: 12
+INSERT INTO `item_mods` VALUES (15736,11,20);   -- AGI: 20
+INSERT INTO `item_mods` VALUES (15736,169,25); -- MOVE: 25
 
 -- Sarutobi Kyahan
 INSERT INTO `item_mods` VALUES (15737,1,7);     -- DEF: 7
