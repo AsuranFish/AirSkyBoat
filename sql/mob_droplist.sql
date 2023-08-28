@@ -538,7 +538,7 @@ INSERT INTO `mob_droplist` VALUES (49,0,0,1000,1311,20);         -- Piece Of Oxb
 INSERT INTO `mob_droplist` VALUES (50,0,0,1000,12292,@VCOMMON); -- Mahogany Shield (Very Common, 24%)
 INSERT INTO `mob_droplist` VALUES (50,0,0,1000,497,@ALWAYS);    -- Gigas Socks (Always, 100%)
 INSERT INTO `mob_droplist` VALUES (50,0,0,1000,499,@COMMON);    -- Gigas Necklace (Common, 15%)
-INSERT INTO `mob_droplist` VALUES (50,0,0,1000,14022,@RARE);    -- Alkyoneuss Bracelets (Rare, 5%)
+INSERT INTO `mob_droplist` VALUES (50,0,0,1000,14022,750);    -- Alkyoneuss Bracelets (Rare, 5%)
 
 -- ZoneID:  85 - All-Seeing Onyx Eye
 INSERT INTO `mob_droplist` VALUES (51,0,0,1000,2681,@ALWAYS);  -- Evergreen Strongbox (Always, 100%)
