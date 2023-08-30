@@ -1617,7 +1617,7 @@ INSERT INTO `item_weapon` VALUES (17979,'federation_kukri',2,0,0,0,0,1,1,182,15,
 INSERT INTO `item_weapon` VALUES (17980,'hornetneedle',2,0,0,0,0,1,1,150,16,0);
 INSERT INTO `item_weapon` VALUES (17981,'bano_del_sol',2,0,0,0,0,1,1,178,20,0);
 INSERT INTO `item_weapon` VALUES (17982,'kard',2,0,0,0,0,1,1,190,25,0);
-INSERT INTO `item_weapon` VALUES (17983,'valiant_knife',2,0,0,0,0,1,4,135,82,0);
+INSERT INTO `item_weapon` VALUES (17983,'valiant_knife',2,0,0,0,0,1,4,135,92,0);
 INSERT INTO `item_weapon` VALUES (17984,'spark_dagger',2,0,0,0,0,1,1,183,7,0);
 INSERT INTO `item_weapon` VALUES (17985,'spark_dagger_+1',2,0,0,0,0,1,1,178,8,0);
 INSERT INTO `item_weapon` VALUES (17986,'spark_baselard',2,0,0,0,0,1,1,186,13,0);
